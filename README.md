@@ -17,9 +17,10 @@ Make sure to go to their respective repositories, thank the author & contributor
 
 # Currently Available Wheels (sorted by : upload date)
 
-- [lxml](aarch64/lxml) (Python: 2 & 3 | Architecture : aarch64) [PyPI Repo](https://pypi.org/project/lxml/)
-- [gevent](aarch64/gevent) (Python: 2 | Architecture : aarch64) [PyPI Repo](https://pypi.org/project/gevent/)
-- [greenlet](aarch64/greenlet) (Python: 2 | Architecture : aarch64) [PyPI Repo](https://pypi.org/project/greenlet/)
+- [lxml](aarch64/lxml) (Python: 2 & 3 | Architecture : aarch64) [PyPI Repo](https://pypi.org/project/lxml/) | [Github Repo](https://github.com/lxml/lxml) | [License](https://github.com/lxml/lxml/blob/master/LICENSES.txt)
+- [gevent](aarch64/gevent) (Python: 2 | Architecture : aarch64) [PyPI Repo](https://pypi.org/project/gevent/) | [Github Repo](https://github.com/gevent/gevent/) | [License](https://github.com/gevent/gevent/blob/master/LICENSE)
+
+- [greenlet](aarch64/greenlet) (Python: 2 | Architecture : aarch64) [PyPI Repo](https://pypi.org/project/greenlet/) | [Github Repo](https://github.com/python-greenlet/greenlet) | [License](https://github.com/python-greenlet/greenlet/blob/master/LICENSE)
 
 
 ### Chat On Gitter
